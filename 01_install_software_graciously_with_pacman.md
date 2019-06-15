@@ -7,9 +7,21 @@
 ## Commonly Used Commands
 1. 安装软件
 
-	sudo pacman -S 软件名
+> sudo pacman -S 软件名   
 
-2. 获取最新软件情况
+2. 获取最新软件情况，但是可能不会实际执行
 
-	sudo pacman -Sy
+> sudo pacman -Sy   
 
+3. 强制更新软件库
+
+> sudo pacman -Syy   
+
+4. 更新软件
+
+> sudo pacman -Su   
+> sudo pacman -Syu   
+
+5. 搜索软件(支持正则表达式)
+
+> sudo pacman -Ss 软件名   
