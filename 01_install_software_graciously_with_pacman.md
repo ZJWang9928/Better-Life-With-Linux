@@ -6,7 +6,10 @@
 
 ## Commonly Used Commands
 1. 安装软件
+
 	sudo pacman -S 软件名
+
 2. 获取最新软件情况
+
 	sudo pacman -Sy
 
