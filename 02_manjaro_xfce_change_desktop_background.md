@@ -7,10 +7,11 @@
 换桌面背景很简单  
 先推荐两个背景图片来源：  
 
-> http://wallpaperswide.com/  
-> http://www.wallpapers-room.com/  
+	http://wallpaperswide.com/  
+	http://www.wallpapers-room.com/  
 
 然后将下载完成的图片复制到/usr/share/backgrounds/目录或该目录的子目录下即可  
-> sudo cp 图片路径 /usr/share/backgrounds/[images|...]   
+
+	sudo cp 图片路径 /usr/share/backgrounds/[images|...]   
 
 然后在桌面选择**设置(settings)** -> **桌面(desktop)**，在打开的窗口中选择**背景(background)**，选择刚才你的目标文件夹作为背景图片文件夹。然后再选择背景图片即可。
