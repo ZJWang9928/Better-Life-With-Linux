@@ -2,7 +2,7 @@
 
 先安装相关软件  
 
-	sudo pacman -S wqy-microhei
+	sudo pacman -S fcitx-im fcitx-configtool fcitx-googlepinyin
 
 然后在用户根目录编辑.xprofile文件（没有就新建一个）
 
