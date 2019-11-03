@@ -1,6 +1,6 @@
 # Install QQ or Tim on Manjaro KDE
 
-1. 配置好添加镜像源（开箱后的常规三步走即可）
+1. 配置好镜像源（开箱后的常规三步走即可）
 2. 安装QQ或TIM，pacman一下即可
 		
 		sudo pacman -S deepin.com.qq.office
