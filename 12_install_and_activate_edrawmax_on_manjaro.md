@@ -1,7 +1,7 @@
 # Install and Activate Edraw Max on Manjaro
 
 Edraw Max 的跨平台性使其成为了Visio很好的替代品  
-ArchLinux的AUR源里就有直接  
+ArchLinux的AUR源里就有，直接  
     
     yay edraw
     
