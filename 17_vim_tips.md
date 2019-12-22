@@ -4,3 +4,10 @@
 + f查询与其他操作配合使用实现操作至某字符的效果，如df:，yfa
 + visual模式选中后输入:normal 可进行批量操作
 + Ctrl+v 进入可视块模式  
++ Spell Check开启情况下在错误词上z=进入备选词页面
++ Spell Check用]s和[s上下切换
++ Ctrl+o 回到上一次光标位置
++ Ctrl+i 回到上一次的上一次光标位置
++ gf 打开文件
++ :%TOhtml 将当前文件转为HTML
++ Ctrl+a/Ctrl+x 数字增减
